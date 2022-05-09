@@ -1,7 +1,7 @@
 # desafio-git-github-dio
 Desafio de Projeto Git/Github 
 
-##links s úteis git/github
+##links git/github
 
 [video-aula-como-usar-git/github-1](https://www.youtube.com/watch?v=DqTITcMq68k&t=14s)
 
