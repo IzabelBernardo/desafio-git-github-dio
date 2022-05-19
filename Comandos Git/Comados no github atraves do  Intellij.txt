@@ -1,0 +1,31 @@
+Compartilhar projeto no github utilizando o Intellij
+ outubro 10, 2020  Luiz Antônio Rech  0 comentários
+Nessa publicação iremos compartilhar uma dica extremamente simples, que consistem em Compartilhar projeto no github utilizando o Intellij. A princípio é uma dica simples mas que muitas vezes gera dúvidas, ainda mais para quem iniciando na área da tecnologia.
+
+Obs: Caso você não possua uma conta no github, você precisará de uma, mas não se preocupa, você pode criar gratuitamente. https://github.com/
+
+Criando repositório e compartilhando o projeto
+1 – Iniciar conexão
+
+Você vai em “VCS” depois em “Import into Version Control” depois em “Share Project on GitHub”
+
+2 – Realizar login
+
+Após realizar o passo anterior, o Intellij irá lhe mostrar uma tela de login para você informar suas credenciais de acesso
+
+3 – Preencher informações do repositório
+
+Posteriormente o Intellij irá solicitar para que informe o nome do repositório e uma descrição, além de uma caixa para informa se é um repositório privado ou não.
+
+4 – Primeiro commit
+
+Logo depois de realizar a criação do repositório o Intellij solicita que seja realizado o primeiro commit dos arquivos do projeto.
+
+5 – Conferindo repositório
+
+Agora basta acessar sua conta do github e conferir o repositório.
+
+https://github.com/aluizrech/GithubCoffops
+
+
+
