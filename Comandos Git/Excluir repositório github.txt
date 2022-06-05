@@ -1,0 +1,22 @@
+Excluir um repositório
+Você poderá excluir qualquer repositório ou bifurcação se for proprietário da organização ou tiver permissões de administrador para o repositório ou a bifurcação. A exclusão de um repositório bifurcado não elimina o repositório upstream.
+
+Os Somente integrantes com privilégios de proprietário de uma organização ou privilégios de administrador de um repositório podem excluem um repositório da organização. Se a opção Allow members to delete or transfer repositories for this organization (Permitir que os integrantes excluam ou transfiram repositórios desta organização) tiver sido desabilitada, somente proprietários da organização poderão excluir repositórios da organização. Para obter mais informações, consulte "Funções do repositório para uma organização".
+
+Excluir um repositório público não excluirá nenhuma bifurcação do repositório.
+
+Avisos:
+
+Excluir um repositório irá excluir permanentemente anexos da versão e permissões da equipe. Esta ação não pode ser desfeita.
+Excluir um interno irá excluir todas as bifurcações do repositório.
+Some deleted repositories can be restored within 30 days of deletion. Para obter mais informações, consulte "Restaurar um repositório excluído".
+
+No GitHub.com, navegue até a página principal do repositório.
+No nome do seu repositório, clique em  Configurações.
+Botão de configurações do repositório
+Em Danger Zone (Zona de perigo), clique em Delete this repository (Excluir este repositório).
+Botão Repository deletion (Exclusão de repositório)
+Leia os avisos.
+Digite o nome do repositório que deseja excluir para verificar se está eliminando o correto.
+Etiquetagem de exclusão
+Clique em I understand the consequences, delete this repository (Entendi as consequências; exclua este repositório).
